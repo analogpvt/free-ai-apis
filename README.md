@@ -75,7 +75,7 @@ For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 
 ## Other
 
-- SprykAI (Open Source Models) [Discord](https://discord.gg/nvswJWu8Br) [GitHub](https://github.com/HelixAIOrg)
+- SprykAI (Open Source Models) [Discord](https://discord.gg/nvswJWu8Br) [HuggingFace](https://huggingface.co/SprykAI)
 - Churchless (OG, but dead project) [Discord](https://discord.gg/vuheSY27gV)
 - CattoGPT (privatized project) [Discord](https://discord.gg/cattogpt)
 - Chatty (AIR AI Precursor) [Discord](https://discord.gg/KT9MWZ64w8)
