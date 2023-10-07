@@ -34,12 +34,6 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | AirAI | [D](https://discord.gg/CWB6uw7qJj) | ❌<sup>3</sup>  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No | Meh-Low | Unlimited | 100% Reversing Sites, Poor API Support
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    |    WIP     | WIP | WIP | WIP | WIP | Yes <sup>2</sup> | WIP | WIP | Very slow release, might never come out. |
 
-
-#### Layer 1a's (*Paid, but cheaper than OpenAI* Wrapper upon OpenAI):
-| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Additional Notes |
-| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | -- |
-| [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     |    ❌     | ❌ | ❌  | ❌  | ❌  | No <sup>2</sup> | Toxic owner, overpriced |
-
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
 | Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | L2 Proof | Additional Notes |
 | --------------------------------- | ---------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | ---  | -- | -- |
@@ -81,7 +75,7 @@ For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 
 ## Other
 
-- HelixAI (Open Source Models) [Discord](https://discord.gg/nvswJWu8Br) [GitHub](https://github.com/HelixAIOrg)
+- SprykAI (Open Source Models) [Discord](https://discord.gg/nvswJWu8Br) [GitHub](https://github.com/HelixAIOrg)
 - Churchless (OG, but dead project) [Discord](https://discord.gg/vuheSY27gV)
 - CattoGPT (privatized project) [Discord](https://discord.gg/cattogpt)
 - Chatty (AIR AI Precursor) [Discord](https://discord.gg/KT9MWZ64w8)
