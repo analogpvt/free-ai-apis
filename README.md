@@ -19,31 +19,32 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 > We are not endorsing *any* of the listed services! Some of them might be considered controversial. We are not responsible for any legal, technical or any other damage caused by using the listed services. Data is provided without warranty of any kind. **Use these at your own risk!**
 
 ## List:<sup>*</sup>
-<sup>*: This list solely covers known 'free' GPT-4 providers. If your service is paid, exclusive, associated with bad figures, or does not offer the idea of 'free *GPT-4*', it will not be listed.</sup>
+<sup>*: This list, sorted by amount of "✅"-emojis, solely covers known free providers for various AI. If your service is paid, exclusive, associated with bad figures, or does not offer the idea of 'free *GPT-4*', it will not be listed. **Make sure to read the disclaimers below**.</sup>
 #### Layer 1's (Wrapper upon OpenAI):
 
 | Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | GPT-4 Limits | Additional Notes |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------- | ------ | --------- | --- | --- | --- | --- | ---- | --- | -- | -- |
-| [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ✅     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | 3/min fixed | made by [@zukixa](https://github.com/zukixa)|
-| WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ❌      | ❌     |    ✅        | ✅  | ❌  | ✅  | ✅  | No | High | 500/day fixed | Skailar partner |
+| [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ❌<sup>5</sup>      | ❌<sup>5</sup>     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | 3/min fixed | Made by [@zukixa](https://github.com/zukixa)|
 | [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      |  ✅   |    ❌       | ✅  | ❌  | ❌  | ✅  | No | High | credit-system | Fully open source! Made by [@nsde](https://github.com/nsde), the owner of this repository
+| WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ❌      | ❌     |    ✅        | ✅  | ❌  | ✅  | ✅  | No | High | 500/day fixed | Skailar partner |
+| [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ✅  | ✅  | ✅  | Yes <sup>2</sup> | Meh <sup>3</sup> | 300/day, fixed | Successor to Chimera | 
 | GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     |    ❌     | ✅  | ✅  | ❌  | ❌  | Yes <sup>2</sup> |  High | Unlimited  | Doesn't require any API key |
-| [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ✅  | ✅  | ✅  | Yes <sup>2</sup> | Meh <sup>3</sup> | 300/day, fixed | Successor to Chi.. | 
-| [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ❌<sup>3</sup>      | ❌     |    ✅<sup>4</sup>       | ✅  | ❌  | ❌  | ❌  | No | High | 100/day<sup>3</sup> | WebRaft Partner, Strict ToS, offers own OSS model |
-| AirAI | [D](https://discord.gg/CWB6uw7qJj) | ❌<sup>3</sup>  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No | Meh-Low | Unlimited | 100% Reversing Sites, Poor API Support
+| [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ❌<sup>3</sup>      | ❌     |    ✅<sup>4</sup>       | ✅  | ❌  | ❌  | ❌  | No | High | 100/day<sup>3</sup> | WebRaft Partner, strict ToS, offers own OSS model |
+| AirAI | [D](https://discord.gg/CWB6uw7qJj) | ❌<sup>3</sup>  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No | Meh-Low | Unlimited | Poor API Support
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    |    WIP     | WIP | WIP | WIP | WIP | Yes <sup>2</sup> | WIP | WIP | Very slow release, might never come out. |
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
 | Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | L2 Proof | Additional Notes |
 | --------------------------------- | ---------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | ---  | -- | -- |
-| [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ❌<sup>3</sup>      | ❌    |    ❌     | ✅  | ❌  | ❌  | ✅  | Yes | Medium-Low |[Here](https://cdn.discordapp.com/attachments/1148212638690578503/1154430995047653426/Screenshot_2023-09-21-16-56-30-939_dev.beefers.vendetta.jpg) | Currently out of providers.
-| [WaveAI](https://api.waveai.link) | [D](https://discord.gg/hEKgVbKzur) | ✅<sup>3</sup>      | ❌    |    ❌     | ❌  | ❌  | ❌  | ❌  | Yes <sup>1</sup> | Medium | [Here](https://cdn.discordapp.com/attachments/1135879401721041056/1152965535357735003/image.png) | Owner is *special.*
 | [CycloneGPT](https://gpt.darkcoder15.tk/)     | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ❌  | ✅  | ✅  | Yes <sup>2</sup> | Medium |[Here](https://prnt.sc/Mm8if4u5OfAt) | ...
+| [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ❌<sup>3</sup>      | ❌    |    ❌     | ✅  | ❌  | ❌  | ✅  | Yes | Medium-Low |[Here](https://cdn.discordapp.com/attachments/1148212638690578503/1154430995047653426/Screenshot_2023-09-21-16-56-30-939_dev.beefers.vendetta.jpg) | Currently out of providers.
+| [WaveAI](https://api.waveai.link) | [D](https://discord.gg/hEKgVbKzur) | ❌<sup>3</sup>      | ❌    |    ❌     | ❌  | ❌  | ❌  | ❌  | Yes <sup>1</sup> | Medium | [Here](https://cdn.discordapp.com/attachments/1135879401721041056/1152965535357735003/image.png) | Frequent downtime
 
 <sup>1: NSFW allowed under special /unfiltered/ endpoint.</sup>\
 <sup>2: Has not explicitly banned the usage of the API for NSFW. </sup>\
 <sup>3: These services *do* have GPT-4/stability, but the free versions available are not particularly reliable or currently available.</sup>\
-<sup>4: It's Claude-1, but the difference to 2 isn't huge.</sup>
+<sup>4: It's Claude-1, but the difference to 2 isn't huge.</sup>\
+<sup>5: Too slow and unstable. Sometimes, there is no request</sup>
 
 #### Layer **FAKE**'s (Fake Providers of 'GPT-4'):
 | Service   | Proof |
@@ -63,7 +64,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | **D**iscord , **M**atrix , **T**elegram |
 
 > [!NOTE]  
-> A lot of the services also support specific models for donators, but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
+> A lot of the services also support specific models for donators, but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time. Moreover, we're assuming, the user wants to request the according model 5/minute and 50/hour; for gpt-4-32k and similarily expensive models 10/hour. Moreover, the timeout for a simple prompt like "1+1" is 10 seconds, images: 30 seconds (medium quality), 40 seconds (high quality).
 
 > [!IMPORTANT]  
 > Data given without warranty of any kind. **As of September 2023.**
