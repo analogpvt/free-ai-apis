@@ -30,7 +30,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ✅  | ✅  | ✅  | Yes <sup>2</sup> | Meh <sup>3</sup> | 300/day, fixed | Successor to Chimera | 
 | GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     |    ❌     | ✅  | ✅  | ❌  | ❌  | Yes <sup>2</sup> |  High | Unlimited  | Doesn't require any API key |
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ❌<sup>3</sup>      | ❌     |    ✅<sup>4</sup>       | ✅  | ❌  | ❌  | ❌  | No | High | 100/day<sup>3</sup> | WebRaft Partner, strict ToS, offers own OSS model |
-| AirAI | [D](https://discord.gg/CWB6uw7qJj) | ❌<sup>3</sup>  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No | Meh-Low | Unlimited | Poor API Support
+| AIR AI | [D](https://discord.gg/CWB6uw7qJj) | ❌<sup>3</sup>  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No | Low | Unlimited | Successor to Chatty, Poor API Support
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    |    WIP     | WIP | WIP | WIP | WIP | Yes <sup>2</sup> | WIP | WIP | Very slow release, might never come out. |
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
@@ -80,7 +80,7 @@ For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 - CattoGPT (privatized project) [Discord](https://discord.gg/cattogpt)
 - Chatty (AIR AI Precursor) [Discord](https://discord.gg/KT9MWZ64w8)
 - pawan.krd (only own models) [Discord](https://discord.gg/pawan)
-- Galaxy AI (No GPT-4, but 3.5) [Discord](https://discord.gg/UDMaAgS62q)
+- Galaxy AI (GPT-4 and 3.5 and claude) [Discord](https://discord.gg/UDMaAgS62q)
 - Nyx AI (No GPT-4, but 3.5) [Discord](https://discord.gg/9bqRWAP74f)
 
 ## Star History
