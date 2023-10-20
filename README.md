@@ -32,6 +32,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ❌<sup>3</sup>      | ❌     |    ✅<sup>4</sup>       | ✅  | ❌  | ❌  | ❌  | No | High | 100/day<sup>3</sup> | WebRaft Partner, strict ToS, offers own OSS model |
 | AIR AI | [D](https://discord.gg/CWB6uw7qJj) | ❌<sup>3</sup>  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No | Low | Unlimited | Successor to Chatty, Poor API Support
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    |    WIP     | WIP | WIP | WIP | WIP | Yes <sup>2</sup> | WIP | WIP | Very slow release, might never come out. |
+| [VisionCraft](https://rohkife.domcloud.io)   | [T](https://t.me/visioncraft_channel) [G](https://github.com/Metim0l/VisionCraft)                               | ❌      | ❌     | ❌       | ✅  | ❌  | ❌  | ❌  | No | High | No | API for image generation. Unlimited requests.
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
 | Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | L2 Proof | Additional Notes |
