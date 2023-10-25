@@ -20,11 +20,19 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 
 ## List:<sup>*</sup>
 <sup>*: This list, sorted by amount of "✅"-emojis, solely covers known free providers for various AI. If your service is paid, exclusive, associated with bad figures, or does not offer the idea of 'free *GPT-4*', it will not be listed. **Make sure to read the disclaimers below**.</sup>
+
+#### Layer 0 (cheaper than OpenAI):
+
+| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | GPT-4 Limits | Additional Notes |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------- | ------ | --------- | --- | --- | --- | --- | ---- | --- | -- | -- |
+| [Acloudapp](https://api.acloudapp.com) | [D](https://discord.gg/CbXGcSgV45)                                                                    | ✅  | ✅    |    ✅    | ✅  | ✅   | ✅   | ✅ | Yes <sup>1</sup> | High | credit-system | Made by ACLOUDAPP TECHNOLOGIES |
+
+
+
 #### Layer 1's (Wrapper upon OpenAI):
 
 | Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | GPT-4 Limits | Additional Notes |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------- | ------ | --------- | --- | --- | --- | --- | ---- | --- | -- | -- |
-| [Acloudapp](https://api.acloudapp.com) | [D](https://discord.gg/CbXGcSgV45)                                                                    | ✅      | ✅     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | credit-system | Made by ACLOUDAPP TECHNOLOGIES |
 | [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ❌<sup>5</sup>      | ❌<sup>5</sup>     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | 3/min fixed | Made by [@zukixa](https://github.com/zukixa)|
 | [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      |  ✅   |    ❌       | ✅  | ❌  | ❌  | ✅  | No | High | credit-system | Fully open source! Made by [@nsde](https://github.com/nsde), the owner of this repository
 | WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ❌      | ❌     |    ✅        | ✅  | ❌  | ✅  | ✅  | No | High | 500/day fixed | Skailar partner |
